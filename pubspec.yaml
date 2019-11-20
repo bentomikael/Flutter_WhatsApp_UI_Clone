@@ -1,0 +1,32 @@
+name: clone_whatsapp
+description: A new Flutter project.
+author: Mikael Bento
+#----------------------Brasil---------------------#
+#UFSC - 2019
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  #image_picker_modern: ^0.4.12+2
+  firebase_auth: ^0.14.0+8
+  firebase_core: ^0.4.1+3
+  firebase_storage: ^3.0.8
+  cloud_firestore: ^0.12.10
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  
