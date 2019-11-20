@@ -1,16 +1,10 @@
 # clone_whatsapp
+My first App in flutter
+A new Flutter WhatsApp clone UI only for study proposes.
+A made this very semilar to my official whatsApp.
+if you want use messages system, you need create a dataBase in firebase to send and receive messages
 
-A new Flutter project.
+Made by Mikael Bento
+Universidade Federal de Santa Catarina - UFSC
+Brasil
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
